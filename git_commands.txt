@@ -9,3 +9,5 @@ git remote add origin <URL>
 git remote -v
 git remote set-url origin http://github-access-token@gaithub.com/github-repo-url
 git push origin <branch-name>
+
+Changing file through github
