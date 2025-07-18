@@ -1,0 +1,11 @@
+git init
+git status
+git add .
+git rm --cached <fileName>
+git commit -m "msg"
+git restore <fileName>
+
+git remote add origin <URL>
+git remote -v
+git remote set-url origin http://github-access-token@gaithub.com/github-repo-url
+git push origin <branch-name>
